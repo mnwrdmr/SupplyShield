@@ -2,6 +2,7 @@
 
 Küçük ve orta ölçekli işletmeler için geliştirilmiş, 7 uzman yapay zeka ajanından oluşan tedarik zinciri risk yönetim platformu.
 
+https://www.youtube.com/watch?v=T35Bmidb8jk
 ---
 
 ## Özellikler
