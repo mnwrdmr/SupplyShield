@@ -1,6 +1,6 @@
-# SupplyShield — Yapay Zeka Destekli Tedarik Zinciri Yönetimi
+# SupplyShield — Yapay Zeka Destekli Tedarik Zinciri Yönetimi - Hackathon 2026 & Yapay Zeka ve Teknoloji Akademisi
 
-Küçük ve orta ölçekli işletmeler için geliştirilmiş, 7 uzman yapay zeka ajanından oluşan tedarik zinciri risk yönetim platformu.
+Küçük ve orta ölçekli işletmeler için geliştirilmiş, 7 uzman yapay zeka ajanından oluşan tedarik zinciri risk yönetim platformu. 
 
 [SupplyShield](https://www.youtube.com/watch?v=T35Bmidb8jk)
 ---
